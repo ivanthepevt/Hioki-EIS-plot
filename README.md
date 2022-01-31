@@ -1,5 +1,5 @@
 # Hioki-EIS-plot
-A Python script to plot the data measured by Hioki instruments as bode plot.<br />
+A Python script to plot the data measured by Hioki instruments as Nyquist plot.<br />
 Requirements (need to pip install):<br />
 -Matplotlib<br />
 -Numpy<br />
